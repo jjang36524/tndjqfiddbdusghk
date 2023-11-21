@@ -16,11 +16,23 @@ a {
   width: 1140px;
   height: 150px;
   /* background-color: rgb(145, 255, 118); */
-  border-bottom: 10px solid #ffffff;
   text-align: center;
   line-height: 150px;
   font-size: 80px;
   font-weight: 900;
+  /* border-bottom-right-radius: 20px; */
+  /* border-bottom-left-radius: 20px; */
+}
+.top2 {
+  color:#ffffff;
+  width: 1140px;
+  height: 60px;
+  /* background-color: rgb(145, 255, 118); */
+  border-bottom: 5px solid #ffffff;
+  text-align: center;
+  line-height: 60px;
+  font-size: 30px;
+  font-weight: 600;
   /* border-bottom-right-radius: 20px; */
   /* border-bottom-left-radius: 20px; */
 }
